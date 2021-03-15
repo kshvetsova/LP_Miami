@@ -12,5 +12,5 @@ The project was created using:
   - Sass
   - Transforms
 
-  [DEMO LINK](https://kshvetsova.github.io/layout_miami/)
+  [DEMO LINK](https://kshvetsova.github.io/LP_Miami/)
 
